@@ -187,7 +187,7 @@
   ],
   "workers": [
     {
-      "id_worker": 1,
+      "id": 1,
       "name": "John Smith",
       "age": 26,
       "occupation": "Sewing Machine Operator",
@@ -198,7 +198,7 @@
       "cost": 1500
     },
     {
-      "id_worker": 2,
+      "id": 2,
       "name": "Sara Lee",
       "age": 24,
       "occupation": "Quality Control Specialist",
@@ -209,7 +209,7 @@
       "cost": 1350
     },
     {
-      "id_worker": 3,
+      "id": 3,
       "name": "Mike Johnson",
       "age": 25,
       "occupation": "Cutting Machine Operator",
@@ -220,7 +220,7 @@
       "cost": 1200
     },
     {
-      "id_worker": 4,
+      "id": 4,
       "name": "Emily Davis",
       "age": 31,
       "occupation": "Washing Machine Operator",
@@ -231,7 +231,7 @@
       "cost": 1650
     },
     {
-      "id_worker": 5,
+      "id": 5,
       "name": "David Wilson",
       "age": 23,
       "occupation": "Finishing Specialist",
@@ -242,7 +242,7 @@
       "cost": 1440
     },
     {
-      "id_worker": 6,
+      "id": 6,
       "name": "Lisa Brown",
       "age": 28,
       "occupation": "Embroidery Machine Operator",
@@ -265,7 +265,7 @@
       "cost": 1470
     },
     {
-      "id_worker": 8,
+      "id": 8,
       "name": "Jennifer White",
       "age": 32,
       "occupation": "Belt Loop Attacher",
@@ -276,7 +276,7 @@
       "cost": 1380
     },
     {
-      "id_worker": 9,
+      "id": 9,
       "name": "Charles Green",
       "age": 26,
       "occupation": "Waistband Specialist",
@@ -287,7 +287,7 @@
       "cost": 1290
     },
     {
-      "id_worker": 10,
+      "id": 10,
       "name": "Patricia Hall",
       "age": 35,
       "occupation": "Zipper Specialist",
@@ -298,7 +298,7 @@
       "cost": 1530
     },
     {
-      "id_worker": 11,
+      "id": 11,
       "name": "Steven Adams",
       "age": 29,
       "occupation": "Distressing Machine Operator",
@@ -309,7 +309,7 @@
       "cost": 1410
     },
     {
-      "id_worker": 12,
+      "id": 12,
       "name": "Mary Brown",
       "age": 37,
       "occupation": "Fabric Inspection Specialist",
