@@ -25,9 +25,6 @@
     {
       "id_company": 1,
       "name": "Denim Masters",
-      "phone": "555-0001",
-      "industry": "Textile Manufacturing",
-      "location": "New York",
       "email": "info@denimmasters.com",
       "id_user": 1,
       "total_consumption": 13670,
@@ -38,9 +35,6 @@
     {
       "id_company": 2,
       "name": "Blue Jean Co.",
-      "phone": "555-0002",
-      "industry": "Apparel Manufacturing",
-      "location": "Los Angeles",
       "email": "info@bluejeancompany.com",
       "id_user": 2,
       "total_consumption": 10500,
@@ -51,9 +45,6 @@
     {
       "id_company": 3,
       "name": "Jeans Innovators",
-      "phone": "555-0003",
-      "industry": "Fashion Technology",
-      "location": "San Francisco",
       "email": "info@jeansinnovators.com",
       "id_user": 3,
       "total_consumption": 8900,
@@ -64,9 +55,6 @@
     {
       "id_company": 4,
       "name": "Denim Trends",
-      "phone": "555-0004",
-      "industry": "Fashion Manufacturing",
-      "location": "Chicago",
       "email": "info@denimtrends.com",
       "id_user": 4,
       "total_consumption": 11200,
@@ -201,6 +189,7 @@
     {
       "id_worker": 1,
       "name": "John Smith",
+      "age": 26,
       "occupation": "Sewing Machine Operator",
       "phone": "555-1234",
       "correo": "john.smith@denimmasters.com",
@@ -209,6 +198,7 @@
     {
       "id_worker": 2,
       "name": "Sara Lee",
+      "age": 24,
       "occupation": "Quality Control Specialist",
       "phone": "555-5678",
       "correo": "sara.lee@denimmasters.com",
@@ -217,6 +207,7 @@
     {
       "id_worker": 3,
       "name": "Mike Johnson",
+      "age": 25,
       "occupation": "Cutting Machine Operator",
       "phone": "555-9012",
       "correo": "mike.johnson@denimmasters.com",
@@ -225,6 +216,7 @@
     {
       "id_worker": 4,
       "name": "Emily Davis",
+      "age": 31,
       "occupation": "Washing Machine Operator",
       "phone": "555-3456",
       "correo": "emily.davis@bluejeancompany.com",
@@ -233,6 +225,7 @@
     {
       "id_worker": 5,
       "name": "David Wilson",
+      "age": 23,
       "occupation": "Finishing Specialist",
       "phone": "555-7890",
       "correo": "david.wilson@bluejeancompany.com",
@@ -241,6 +234,7 @@
     {
       "id_worker": 6,
       "name": "Lisa Brown",
+      "age": 28,
       "occupation": "Embroidery Machine Operator",
       "phone": "555-2345",
       "correo": "lisa.brown@bluejeancompany.com",
@@ -249,6 +243,8 @@
     {
       "id_worker": 7,
       "name": "Robert Taylor",
+      "age": 28,
+      "birthday": "27/11/1996",
       "occupation": "Pocket Setter Operator",
       "phone": "555-6789",
       "correo": "robert.taylor@jeansinnovators.com",
@@ -257,6 +253,7 @@
     {
       "id_worker": 8,
       "name": "Jennifer White",
+      "age": 32,
       "occupation": "Belt Loop Attacher",
       "phone": "555-0123",
       "correo": "jennifer.white@jeansinnovators.com",
@@ -265,6 +262,7 @@
     {
       "id_worker": 9,
       "name": "Charles Green",
+      "age": 26,
       "occupation": "Waistband Specialist",
       "phone": "555-4567",
       "correo": "charles.green@jeansinnovators.com",
@@ -273,6 +271,7 @@
     {
       "id_worker": 10,
       "name": "Patricia Hall",
+      "age": 35,
       "occupation": "Zipper Specialist",
       "phone": "555-8910",
       "correo": "patricia.hall@denimtrends.com",
@@ -281,6 +280,7 @@
     {
       "id_worker": 11,
       "name": "Steven Adams",
+      "age": 29,
       "occupation": "Distressing Machine Operator",
       "phone": "555-2345",
       "correo": "steven.adams@denimtrends.com",
@@ -289,6 +289,7 @@
     {
       "id_worker": 12,
       "name": "Mary Brown",
+      "age": 37,
       "occupation": "Fabric Inspection Specialist",
       "phone": "555-6789",
       "correo": "mary.brown@denimtrends.com",
