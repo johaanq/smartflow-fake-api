@@ -193,7 +193,9 @@
       "occupation": "Sewing Machine Operator",
       "phone": "555-1234",
       "correo": "john.smith@denimmasters.com",
-      "id_company": 1
+      "id_company": 1,
+      "consumption": 500,
+      "cost": 1500
     },
     {
       "id_worker": 2,
@@ -202,7 +204,9 @@
       "occupation": "Quality Control Specialist",
       "phone": "555-5678",
       "correo": "sara.lee@denimmasters.com",
-      "id_company": 1
+      "id_company": 1,
+      "consumption": 450,
+      "cost": 1350
     },
     {
       "id_worker": 3,
@@ -211,7 +215,9 @@
       "occupation": "Cutting Machine Operator",
       "phone": "555-9012",
       "correo": "mike.johnson@denimmasters.com",
-      "id_company": 1
+      "id_company": 1,
+      "consumption": 400,
+      "cost": 1200
     },
     {
       "id_worker": 4,
@@ -220,7 +226,9 @@
       "occupation": "Washing Machine Operator",
       "phone": "555-3456",
       "correo": "emily.davis@bluejeancompany.com",
-      "id_company": 2
+      "id_company": 2,
+      "consumption": 550,
+      "cost": 1650
     },
     {
       "id_worker": 5,
@@ -229,7 +237,9 @@
       "occupation": "Finishing Specialist",
       "phone": "555-7890",
       "correo": "david.wilson@bluejeancompany.com",
-      "id_company": 2
+      "id_company": 2,
+      "consumption": 480,
+      "cost": 1440
     },
     {
       "id_worker": 6,
@@ -238,7 +248,9 @@
       "occupation": "Embroidery Machine Operator",
       "phone": "555-2345",
       "correo": "lisa.brown@bluejeancompany.com",
-      "id_company": 2
+      "id_company": 2,
+      "consumption": 420,
+      "cost": 1260
     },
     {
       "id_worker": 7,
@@ -248,7 +260,9 @@
       "occupation": "Pocket Setter Operator",
       "phone": "555-6789",
       "correo": "robert.taylor@jeansinnovators.com",
-      "id_company": 3
+      "id_company": 3,
+      "consumption": 490,
+      "cost": 1470
     },
     {
       "id_worker": 8,
@@ -257,7 +271,9 @@
       "occupation": "Belt Loop Attacher",
       "phone": "555-0123",
       "correo": "jennifer.white@jeansinnovators.com",
-      "id_company": 3
+      "id_company": 3,
+      "consumption": 460,
+      "cost": 1380
     },
     {
       "id_worker": 9,
@@ -266,7 +282,9 @@
       "occupation": "Waistband Specialist",
       "phone": "555-4567",
       "correo": "charles.green@jeansinnovators.com",
-      "id_company": 3
+      "id_company": 3,
+      "consumption": 430,
+      "cost": 1290
     },
     {
       "id_worker": 10,
@@ -275,7 +293,9 @@
       "occupation": "Zipper Specialist",
       "phone": "555-8910",
       "correo": "patricia.hall@denimtrends.com",
-      "id_company": 4
+      "id_company": 4,
+      "consumption": 510,
+      "cost": 1530
     },
     {
       "id_worker": 11,
@@ -284,7 +304,9 @@
       "occupation": "Distressing Machine Operator",
       "phone": "555-2345",
       "correo": "steven.adams@denimtrends.com",
-      "id_company": 4
+      "id_company": 4,
+      "consumption": 470,
+      "cost": 1410
     },
     {
       "id_worker": 12,
@@ -293,7 +315,9 @@
       "occupation": "Fabric Inspection Specialist",
       "phone": "555-6789",
       "correo": "mary.brown@denimtrends.com",
-      "id_company": 4
+      "id_company": 4,
+      "consumption": 440,
+      "cost": 1320
     }
   ]
 }
